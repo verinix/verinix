@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Fredrik August
 
-<!--
-**verinix/verinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a MSc Computer Science student at NTNU, specialising in databases and search.
+I use GitHub as a workspace for learning, experimentation, and maintaining
+clean, well-documented software projects.
 
-Here are some ideas to get you started:
+I am particularly interested in backend systems, information retrieval,
+and data-intensive applications, with an emphasis on correctness,
+performance, and clear system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Background
+- MSc Computer Science, NTNU (Databases & Search)
+- Engineer at Tolletaten
+
+---
+
+## What you'll find here
+- Backend and systems-oriented projects
+- Experiments related to search, indexing, and retrieval
+- Course and side projects that have been cleaned up and documented
+- A focus on reproducibility, measurement, and engineering discipline
+
+---
+
+This profile will evolve as projects become public.
